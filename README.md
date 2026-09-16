@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?username=Phawineee&color=grey)
+![](https://komarev.com/ghpvc/?username=Phawineee&color=lightgrey)
+"<img width="399" height="501" alt="image" src="https://github.com/user-attachments/assets/d88eb9d6-472c-4fb8-897f-0bc0bc8a1357" />
+f" width="100" height="100" />
+
 Hi 👋 My name is Phawinee
 =========================
 
